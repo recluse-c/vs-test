@@ -1,1 +1,1 @@
-# repository for github
+# Record the study of DataStucture and Algorithm
